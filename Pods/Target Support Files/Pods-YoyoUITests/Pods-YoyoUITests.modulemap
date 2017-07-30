@@ -1,0 +1,6 @@
+framework module Pods_YoyoUITests {
+  umbrella header "Pods-YoyoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

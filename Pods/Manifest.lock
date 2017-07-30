@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.5.0)
+  - LTMorphingLabel (0.5.0)
+  - RZTransitions (1.2.1)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - LTMorphingLabel
+  - RZTransitions
+  - SDWebImage (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  LTMorphingLabel: bc170be74b219b7dae0e5543a44676d16da70ff7
+  RZTransitions: 0e0013fda6989ee84dc5e44dca79fd539e1a975a
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: 40c93581b310a8a9df6eab71c3939ecc4883e576
+
+COCOAPODS: 1.2.1
