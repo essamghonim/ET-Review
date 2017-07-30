@@ -3,7 +3,7 @@ ET Review displays the top trending movies on Trakt.tv
 * The information is displayed in a side-scrolling table view.
 * When the user selects one of the movies, a ?details screen is shown with the full summary, ratings, genres and main ?poster.
 * The movies and details are available offline using some ?form of persistence mechanism
-* ÊThe app includes UI and unit tests
+* The app includes UI and unit testing
 * This app was built over the course of a weekend as part of a code challenge.
 * Here are all the third-party libraries I used in my project:
 1. Alamofire: I used alamofire to make a request to the Trakt.tv API to retrieve the trending movies
